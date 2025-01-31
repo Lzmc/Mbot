@@ -1,0 +1,23 @@
+{
+  "bot-account": {
+    "username": "MineXeeBotLobby",
+    "password": "your_password",
+    "type": "offline"
+  },
+
+  "server": {
+    "ip": "mc.mingxee.xyz",
+    "port": 9299,
+    "version": "1.19.3"
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "12345678"
+    },
+    
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 5000
+  }
+}
